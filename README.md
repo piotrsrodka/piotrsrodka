@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piotrsrodka
 - 👀 I’m interested in ridiculous things
-- 🌱 I’m currently learning Web design and development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently growing legal tech startup
+- 💞️ I’m looking to improve sleep quality
 - 📫 How to reach me piotr.srodka at hey.com
 
 <!---
